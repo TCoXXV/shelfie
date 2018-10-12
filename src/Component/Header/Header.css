@@ -1,0 +1,22 @@
+.headercom{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(126, 0, 0);
+    align-items: center;
+    display: flex;
+}
+.title{
+    color: white;
+    font-weight: 600;
+    font-size: 2rem;
+    display: flex;
+}
+.circle{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+

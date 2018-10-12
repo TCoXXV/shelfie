@@ -1,0 +1,23 @@
+.productCard{
+    background-color: rgb(139, 0, 0);
+    height: 20vh;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    border-radius: 10px 10px;
+}
+
+.picHalf{
+    width: 45%;
+    height: 90%;
+    background-color: white;
+    margin: auto;
+    border-radius: 5px 5px;
+}
+
+.descHalf{
+    font-size: 10px;
+    width: 45%;
+    margin: auto;
+}

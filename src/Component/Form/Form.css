@@ -1,0 +1,50 @@
+.form{
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.formbox{
+    height: 50vh;
+    width: 50%;
+    background-color: rgb(123, 228, 158);
+    margin: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px 5px;
+}
+.picture{
+    margin: 20px 30px 0 30px;
+    height: 40%;
+    width: 75%;
+    background-color: white;
+}
+
+/* .imgIn{
+    
+} */
+
+p{
+    margin-top:5px;
+    margin-bottom:5px;
+}
+input{
+    width: 200px;
+    border-radius: 5px 5px;
+}
+.buttondiv{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+button{
+    width: 50px;
+    height: 30px;
+    border-radius: 5px 5px;
+    background-color: rgb(226, 128, 0);
+}
+.rightbtn{
+    width: 80px;
+}
